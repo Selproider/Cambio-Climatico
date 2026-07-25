@@ -8,7 +8,9 @@ Descripción
 
 Este proyecto ha sido desarrollado para un hackathon sobre el cambio climático. Su objetivo es ayudar a las personas a comprender el impacto ambiental de sus hábitos diarios mediante una estimación de su huella de carbono.
 
-La aplicación realiza preguntas sobre transporte, consumo energético, alimentación y reciclaje. A partir de las respuestas del usuario, calcula una puntuación aproximada de huella de carbono y ofrece recomendaciones personalizadas para reducir las emisiones de CO₂.
+La aplicación realiza preguntas sobre transporte, consumo energético, alimentación y reciclaje. Además de calcular una estimación de su huella de carbono, la aplicación propone desafíos ecológicos personalizados para fomentar cambios positivos en el día a día.
+
+Los usuarios pueden completar retos como reducir el uso del coche durante una semana, reciclar más residuos o disminuir el consumo de electricidad. Cada desafío completado otorga puntos y permite seguir el progreso personal.
 
 Objetivos
 Concienciar sobre el cambio climático.
