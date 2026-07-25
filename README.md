@@ -15,11 +15,10 @@ Mostrar cómo las acciones cotidianas afectan al medio ambiente.
 Proporcionar consejos prácticos para reducir la huella de carbono.
 Fomentar hábitos más sostenibles.
 Tecnologías utilizadas
-Python
-Flask
-HTML
-CSS
-SQLite (opcional)
+- Python
+- Flask
+- HTML
+- CSS
 Cómo funciona
 El usuario responde a un cuestionario.
 El sistema calcula una puntuación de huella de carbono.
