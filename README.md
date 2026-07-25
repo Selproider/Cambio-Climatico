@@ -21,9 +21,10 @@ Tecnologías utilizadas
 - CSS
 
 Cómo funciona
-El usuario responde a un cuestionario.
-El sistema calcula una puntuación de huella de carbono.
-Se muestra el resultado junto con recomendaciones para mejorar los hábitos medioambientales.
+1. El usuario responde a un cuestionario.
+2. El sistema calcula una puntuación de huella de carbono.
+3. Se muestra el resultado junto con recomendaciones para mejorar los hábitos medioambientales.
+
 Impacto esperado
 
 Al ayudar a los usuarios a comprender mejor sus emisiones y ofrecer sugerencias para reducirlas, el proyecto contribuye a la lucha contra el cambio climático y promueve un estilo de vida más sostenible.
