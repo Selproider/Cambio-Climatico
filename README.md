@@ -19,6 +19,7 @@ Tecnologías utilizadas
 - Flask
 - HTML
 - CSS
+
 Cómo funciona
 El usuario responde a un cuestionario.
 El sistema calcula una puntuación de huella de carbono.
