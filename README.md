@@ -3,6 +3,7 @@
 Esta es la idea del proyecto
 
 # Calculadora de Huella de Carbono 🌍
+
 Descripción
 
 Este proyecto ha sido desarrollado para un hackathon sobre el cambio climático. Su objetivo es ayudar a las personas a comprender el impacto ambiental de sus hábitos diarios mediante una estimación de su huella de carbono.
