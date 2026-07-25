@@ -13,11 +13,11 @@ La aplicación realiza preguntas sobre transporte, consumo energético, alimenta
 Los usuarios pueden completar retos como reducir el uso del coche durante una semana, reciclar más residuos o disminuir el consumo de electricidad. Cada desafío completado otorga puntos y permite seguir el progreso personal.
 
 Objetivos
-Cálculo de huella de carbono.
-Sistema de desafíos ecológicos.
-Puntuación y niveles de progreso.
-Consejos personalizados según los resultados.
-Seguimiento de objetivos completados.
+1. Cálculo de huella de carbono.
+2. Sistema de desafíos ecológicos.
+3. Puntuación y niveles de progreso.
+4. Consejos personalizados según los resultados.
+5. Seguimiento de objetivos completados.
 
 Tecnologías utilizadas
 - Python
