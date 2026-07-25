@@ -1,6 +1,6 @@
 # Cambio-Climatico
 
-Esta es la idea del proyecto
+Esta es la idea del proyecto:
 
 # Calculadora de Huella de Carbono 🌍
 
