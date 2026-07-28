@@ -46,9 +46,9 @@ Al ayudar a los usuarios a comprender mejor sus emisiones y ofrecer sugerencias 
 
 ## Referencias útiles:
 
-* https://github.com/pallets/flask
-* https://github.com/matplotlib/matplotlib
-* https://github.com/realpython/flask-by-example-project
+· https://github.com/pallets/flask
+· https://github.com/matplotlib/matplotlib
+· https://github.com/realpython/flask-by-example-project
 
 ## Los artículos de la guía que me ayudarán durante el desarrollo
 
