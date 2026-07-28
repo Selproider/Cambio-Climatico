@@ -33,3 +33,31 @@ Cómo funciona
 Impacto esperado
 
 Al ayudar a los usuarios a comprender mejor sus emisiones y ofrecer sugerencias para reducirlas, el proyecto contribuye a la lucha contra el cambio climático y promueve un estilo de vida más sostenible.
+
+## Este es el tipo de mi proyecto:
+
+> Mi proyecto será una aplicación web que ayudará a las personas a conocer mejor su huella de carbono. También incluirá retos ecológicos y consejos para que los usuarios puedan reducir su impacto en el medio ambiente.
+
+## Las bibliotecas que voy a utilizar:
+
+* Flask
+* Matplotlib
+* SQLite3
+
+## Referencias útiles:
+
+* https://github.com/pallets/flask
+* https://github.com/matplotlib/matplotlib
+* https://github.com/realpython/flask-by-example-project
+
+## Los artículos de la guía que me ayudarán durante el desarrollo
+
+Esta guía me ayudará a aprender a crear páginas web y formularios con Flask:
+https://flask.palletsprojects.com/en/stable/tutorial/
+
+Esta guía explica cómo hacer gráficos con Python usando Matplotlib:
+https://matplotlib.org/stable/users/getting_started/
+
+Esta guía me ayudará a guardar y leer información usando SQLite en Python:
+https://docs.python.org/3/library/sqlite3.html
+
